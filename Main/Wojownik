@@ -1,0 +1,4 @@
+public class Wojownik {
+  public static void main(String[] args){
+  }
+}
