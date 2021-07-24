@@ -1,0 +1,6 @@
+public class statystykiwojownika {
+  public static void main(String[] args){
+   wojownik.sila = 5;
+   wojownik.zycie = 10;
+  }
+}
