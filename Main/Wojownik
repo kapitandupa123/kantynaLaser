@@ -1,7 +1,10 @@
 public class Wojownik {
   public static void main(String[] args){
-  int.sila = 5;
-  int.zycie = 10;
+  private int sila = 5;
+  private int zycie = 10;
+  public int dupa = 5;
   
+  
+
   }
 }
